@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 5f10b2c917c985a408eedffc3d2ae149
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 001 pm0058_00
+    100002: 002 Origin
+    100004: 003 Waist
+    100006: 004 Hips
+    100008: 005 EndHips
+    100010: 006 LThigh
+    100012: 007 LLeg
+    100014: 008 LFoot
+    100016: 009 EndLFoot
+    100018: 010 LToe1
+    100020: 011 EndLToe1
+    100022: 012 LToe2
+    100024: 013 EndLToe2
+    100026: 014 RThigh
+    100028: 015 RLeg
+    100030: 016 RFoot
+    100032: 017 EndRFoot
+    100034: 018 RToe1
+    100036: 019 EndRToe1
+    100038: 020 RToe2
+    100040: 021 EndRToe2
+    100042: 022 Tail1
+    100044: 023 Tail2
+    100046: 024 Tail3
+    100048: 025 EndTail3
+    100050: 026 Spine1
+    100052: 027 Spine2
+    100054: 028 FeelerA1
+    100056: 029 FeelerA2
+    100058: 030 FeelerA3
+    100060: 031 FeelerA4
+    100062: 032 EndFeelerA4
+    100064: 033 LShoulder
+    100066: 034 LArm
+    100068: 035 LForeArm
+    100070: 036 LHand
+    100072: 037 EndLHand
+    100074: 038 LFinger
+    100076: 039 EndLFinger
+    100078: 040 LFingerA
+    100080: 041 EndLFingerA
+    100082: 042 LFingerB
+    100084: 043 EndLFingerB
+    100086: 044 Neck
+    100088: 045 Head
+    100090: 046 FeelerB1
+    100092: 047 FeelerB2
+    100094: 048 EndFeelerB2
+    100096: 049 Jaw
+    100098: 050 EndJaw
+    100100: 051 Tongue1
+    100102: 052 Tongue2
+    100104: 053 EndTongue2
+    100106: 054 LEar
+    100108: 055 EndLEar
+    100110: 056 REar
+    100112: 057 EndREar
+    100114: 058 RShoulder
+    100116: 059 RArm
+    100118: 060 RForeArm
+    100120: 061 RHand
+    100122: 062 EndRHand
+    100124: 063 RFinger
+    100126: 064 EndRFinger
+    100128: 065 RFingerA
+    100130: 066 EndRFingerA
+    100132: 067 RFingerB
+    100134: 068 EndRFingerB
+    100136: 069 pm0058_00_IrisSkin
+    100138: 070 pm0058_00_Skin
+    100140: //RootNode
+    100142: Growlithe
+    400000: 001 pm0058_00
+    400002: 002 Origin
+    400004: 003 Waist
+    400006: 004 Hips
+    400008: 005 EndHips
+    400010: 006 LThigh
+    400012: 007 LLeg
+    400014: 008 LFoot
+    400016: 009 EndLFoot
+    400018: 010 LToe1
+    400020: 011 EndLToe1
+    400022: 012 LToe2
+    400024: 013 EndLToe2
+    400026: 014 RThigh
+    400028: 015 RLeg
+    400030: 016 RFoot
+    400032: 017 EndRFoot
+    400034: 018 RToe1
+    400036: 019 EndRToe1
+    400038: 020 RToe2
+    400040: 021 EndRToe2
+    400042: 022 Tail1
+    400044: 023 Tail2
+    400046: 024 Tail3
+    400048: 025 EndTail3
+    400050: 026 Spine1
+    400052: 027 Spine2
+    400054: 028 FeelerA1
+    400056: 029 FeelerA2
+    400058: 030 FeelerA3
+    400060: 031 FeelerA4
+    400062: 032 EndFeelerA4
+    400064: 033 LShoulder
+    400066: 034 LArm
+    400068: 035 LForeArm
+    400070: 036 LHand
+    400072: 037 EndLHand
+    400074: 038 LFinger
+    400076: 039 EndLFinger
+    400078: 040 LFingerA
+    400080: 041 EndLFingerA
+    400082: 042 LFingerB
+    400084: 043 EndLFingerB
+    400086: 044 Neck
+    400088: 045 Head
+    400090: 046 FeelerB1
+    400092: 047 FeelerB2
+    400094: 048 EndFeelerB2
+    400096: 049 Jaw
+    400098: 050 EndJaw
+    400100: 051 Tongue1
+    400102: 052 Tongue2
+    400104: 053 EndTongue2
+    400106: 054 LEar
+    400108: 055 EndLEar
+    400110: 056 REar
+    400112: 057 EndREar
+    400114: 058 RShoulder
+    400116: 059 RArm
+    400118: 060 RForeArm
+    400120: 061 RHand
+    400122: 062 EndRHand
+    400124: 063 RFinger
+    400126: 064 EndRFinger
+    400128: 065 RFingerA
+    400130: 066 EndRFingerA
+    400132: 067 RFingerB
+    400134: 068 EndRFingerB
+    400136: 069 pm0058_00_IrisSkin
+    400138: 070 pm0058_00_Skin
+    400140: Growlithe
+    400142: //RootNode
+    2100000: BodyA
+    2100002: BodyBBuffronVco
+    2100004: Eye
+    2100006: LIris
+    4300000: Growlithe
+    9500000: //RootNode
+    13700000: Growlithe
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

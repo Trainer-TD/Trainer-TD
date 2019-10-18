@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 41e8fbd6e996c9344918e705e2f54cb3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: EndLFeelerA
+    100002: EndLHand
+    100004: EndRFeelerA
+    100006: EndRHand
+    100008: EndWaist
+    100010: LArm
+    100012: LFeelerA
+    100014: LForeArm
+    100016: LHand
+    100018: Origin
+    100020: pm0479_14
+    100022: pm0479_14_ArmSkin
+    100024: pm0479_14_AuraASkin
+    100026: pm0479_14_AuraBSkin
+    100028: pm0479_14_BodySkin
+    100030: pm0479_14_DoorSkin
+    100032: pm0479_14_EdgeSkin
+    100034: RArm
+    100036: RFeelerA
+    100038: RForeArm
+    100040: RHand
+    100042: //RootNode
+    100044: RotomFrostA
+    100046: RotomFrostB
+    100048: Waist
+    400000: EndLFeelerA
+    400002: EndLHand
+    400004: EndRFeelerA
+    400006: EndRHand
+    400008: EndWaist
+    400010: LArm
+    400012: LFeelerA
+    400014: LForeArm
+    400016: LHand
+    400018: Origin
+    400020: pm0479_14
+    400022: pm0479_14_ArmSkin
+    400024: pm0479_14_AuraASkin
+    400026: pm0479_14_AuraBSkin
+    400028: pm0479_14_BodySkin
+    400030: pm0479_14_DoorSkin
+    400032: pm0479_14_EdgeSkin
+    400034: RArm
+    400036: RFeelerA
+    400038: RForeArm
+    400040: RHand
+    400042: //RootNode
+    400044: RotomFrostA
+    400046: RotomFrostB
+    400048: Waist
+    2100000: 'Material #10'
+    2100002: 'Material #11'
+    4300000: RotomFrostA
+    4300002: RotomFrostB
+    9500000: //RootNode
+    13700000: RotomFrostA
+    13700002: RotomFrostB
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
